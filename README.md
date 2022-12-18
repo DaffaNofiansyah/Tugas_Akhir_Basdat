@@ -10,7 +10,7 @@ Website Mempermudah Pemesanan Makanan
 
 
 
-       Dipersiapkan oleh:
+Dipersiapkan oleh:
 Daffa Nofiansyah 		G6401211098
 Muhammad Rizki A.M. 		G6401211003
 Rafi Fabian Syah 		G6401211025

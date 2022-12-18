@@ -1,18 +1,18 @@
 # Tugas_Akhir_Basdat
 Tugas Akhir Mata Kuliah Basdat
 
-            LAPORAN PROYEK
-          KOM120F/ Basis Data
+LAPORAN PROYEK
+KOM120F/ Basis Data
 
 
-              The Bliss
-  Website Mempermudah Pemesanan Makanan
+The Bliss
+Website Mempermudah Pemesanan Makanan
 
 
 
        Dipersiapkan oleh:
 Daffa Nofiansyah 		G6401211098
-Muhammad Rizki A.M. G6401211003
+Muhammad Rizki A.M. 		G6401211003
 Rafi Fabian Syah 		G6401211025
 
 
